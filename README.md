@@ -1,5 +1,5 @@
 
-# 📊 Task 8 - Sales Performance Dashboard
+# Sales Performance Dashboard
 
 ## ✅ Objective
 To build an interactive dashboard that shows:
